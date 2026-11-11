@@ -47,7 +47,7 @@ This works perfectly as a mobile time-killer or as a hybrid between a fortune-te
 
 ### Developer
 
-* Kirill Shutov (ShutovKS), Russia
+* xAFK-BOTx, Russia
 
 ## Screenshots
 
